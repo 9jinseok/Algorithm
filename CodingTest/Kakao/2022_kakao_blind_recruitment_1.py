@@ -23,5 +23,4 @@ def solution(id_list, report, k):
 
     return list(mail.values())
 
-
 print(solution(["muzi", "frodo", "apeach", "neo"],["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"],2))
