@@ -14,7 +14,6 @@ class _4 {
         		}
         		l *= 2;
         	}
-        	System.out.println(b);
         	if(isTree(b))
         		answer[i] = 1;
         	else
